@@ -1,0 +1,1 @@
+/home/guo/software/运维环境/php/php-5.3.27
